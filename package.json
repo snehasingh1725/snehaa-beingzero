@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/snehasingh1725/snehaa-beingzero/issues"
   },
-  "homepage": "https://github.com/snehasingh1725/snehaa-beingzero#readme"
+  "homepage": "https://github.com/snehasingh1725/snehaa-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
